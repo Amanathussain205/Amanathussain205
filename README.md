@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/Amanathussain205">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Evren+AI;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Sotrix Technologies;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
 </a>
 
 <br/>
