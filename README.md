@@ -1,24 +1,142 @@
-# 💫 About Me:
-🔭 I'm currently working on building practical AI applications powered by LLMs, RAG, and Agentic AI.<br><br>👯 I'm looking to collaborate on Open-source Generative AI projects, AI agents, RAG-based applications, and LLM-powered solutions.<br><br>🌱 I'm currently exploring Retrieval-Augmented Generation (RAG), LangGraph, and advanced Agentic AI workflows.<br><br>💬 Ask me about Python, FastAPI, LangChain, Prompt Engineering, LLMs, RAG, and Generative AI.<br><br>⚡ Fun fact: I went from learning Python to building RAG-based applications all within the same year of university.
+<!-- Save this as README.md in a public repo named exactly: Amanathussain205 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:3B82F6&height=190&section=header&text=Amanat%20Hussain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20Generative%20AI%20Developer&descSize=20&descAlignY=60" width="100%" alt="Amanat Hussain banner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanat-hussain-9726923b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanathussain205@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amanathussain205&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Amanathussain205&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amanathussain205&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Amanathussain205">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Evren+AI;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amanathussain205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amanathussain205&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Location](https://img.shields.io/badge/Faisalabad%2C_Pakistan-0B1D3A?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
+![Role](https://img.shields.io/badge/Generative_AI_Intern-Evren_AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white)
+![Education](https://img.shields.io/badge/BS_AI-Superior_University-0B1D3A?style=for-the-badge&logo=googlescholar&logoColor=60A5FA)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Amanathussain205&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm an **Artificial Intelligence undergraduate** and **Generative AI Intern at Evren AI** (Lahore), focused on building reliable AI systems that pair **solid backend engineering** with modern **machine learning and LLM techniques**.
+
+- 🔭 Currently building **FastAPI** services with database persistence, authentication and authorization
+- 🧠 Exploring **prompt engineering, LLM workflows and RAG**
+- 👁️ Experienced with **Computer Vision** (OpenCV, Dlib) and **NLP**
+- 🌱 Learning in public and shipping projects along the way
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,fastapi,postgres,pytorch,tensorflow,opencv,git,github,vscode&theme=dark" alt="Tech stack icons" />
+
+<br/><br/>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_%26_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+| Area | Tools & Concepts |
+| :-- | :-- |
+| 🐍 **Languages** | Python, SQL, C++ |
+| 🤖 **AI / ML** | Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, LLM workflows |
+| ⚙️ **Backend** | FastAPI, REST APIs, CRUD, Authentication, Authorization, OAuth2, JWT |
+| 🧰 **Tools** | Git, GitHub, Streamlit, OpenCV, Dlib, PyTorch, TensorFlow, Keras, MediaPipe, NLTK |
+| 📐 **Foundations** | OOP, Linear Algebra, Calculus, Prompt Engineering, Debugging |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🐍 PyLumo: AI-Powered Python Tutor
+An interactive chatbot that helps users learn and practice Python through a conversational experience, with prompts designed for structured tutoring.
+
+`Python` `Streamlit` `LLM API` `Prompt Engineering`
+
+    </td>
+    <td width="50%" valign="top">
+
+### ✅ ToDo REST API
+A FastAPI backend with CRUD endpoints, database persistence, user registration/login, password hashing, JWT/refresh tokens and role-based access.
+
+`FastAPI` `PostgreSQL` `OAuth2` `JWT`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 👁️ Driver Safety Monitor
+A real-time computer vision pipeline that detects driver fatigue using facial landmarks and Eye Aspect Ratio (EAR), with an audio alert for prolonged eye closure and yawning.
+
+`OpenCV` `Dlib` `Computer Vision`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎙️ ZAVI: Voice Assistant
+A Python personal assistant with speech-to-text, text-to-speech and intent recognition for task management, information retrieval and system control.
+
+`Python` `STT` `TTS` `NLU`
+
+    </td>
+  </tr>
+</table>
+
+> 📂 More work on my [repositories page](https://github.com/Amanathussain205?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amanathussain205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1D3A&title_color=60A5FA&icon_color=3B82F6" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanathussain205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1D3A&title_color=60A5FA" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Amanathussain205&theme=tokyonight&hide_border=true&background=0B1D3A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- [x] FastAPI authentication & authorization patterns
+- [x] Prompt engineering and structured LLM interaction
+- [ ] Retrieval-Augmented Generation (RAG) systems
+- [ ] AI-powered backend systems & applied AI research
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amanat-hussain-9726923b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amanathussain463@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Amanathussain205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<i>“Reliable AI starts with strong software engineering.”</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0B1D3A&height=110&section=footer" width="100%" alt="footer" />
