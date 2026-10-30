@@ -1,12 +1,11 @@
- 
-<!-- Save this as README.md in the public repository named exactly: Amanathussain205 -->
+<!-- Save this as README.md in a public repo named exactly: Amanathussain205 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:3B82F6&height=190&section=header&text=Amanat%20Hussain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%7C%20Agentic%20AI%20Developer&descSize=20&descAlignY=60" width="100%" alt="Amanat Hussain banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:3B82F6&height=190&section=header&text=Amanat%20Hussain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20Generative%20AI%20Developer&descSize=20&descAlignY=60" width="100%" alt="Amanat Hussain banner" />
 
 <div align="center">
 
 <a href="https://github.com/Amanathussain205">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Generative+AI+Intern+%40+Softrix+Technologies;Building+LLM-Powered+Applications;Exploring+RAG+%26+Agentic+AI;Python+%7C+FastAPI+%7C+LangChain;Turning+AI+Ideas+into+Practical+Solutions" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Softrix+Technologies;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
 </a>
 
 <br/>
@@ -21,16 +20,12 @@
 
 ## 👋 About Me
 
-I'm an **Artificial Intelligence undergraduate** and **Generative AI Intern at Softrix Technologies**, passionate about building practical applications powered by Large Language Models and modern AI technologies.
+I'm an **Artificial Intelligence undergraduate** and **Generative AI Intern at Softrix Technologies** (Faisalabad), focused on building reliable AI systems that pair **solid backend engineering** with modern **machine learning and LLM techniques**.
 
-My focus is on combining **strong software engineering foundations** with Generative AI to develop reliable, useful, and scalable AI-powered applications.
-
-- 🤖 Interested in **Generative AI, LLMs, RAG, and Agentic AI**
-- ⚙️ Building backend applications and REST APIs using **Python and FastAPI**
-- 🔗 Working with **LangChain** to build LLM-powered workflows
-- 🧠 Currently exploring **RAG architectures, LangGraph, and AI agent workflows**
-- 👁️ Have hands-on experience with **Computer Vision and NLP**
-- 🚀 Believe in learning by building, experimenting, and solving real-world problems
+- 🔭 Currently building **FastAPI** services with database persistence, authentication and authorization
+- 🧠 Exploring **prompt engineering, LLM workflows and RAG**
+- 👁️ Experienced with **Computer Vision** (OpenCV, Dlib) and **NLP**
+- 🌱 Learning in public and shipping projects along the way
 
 ---
 
@@ -38,46 +33,26 @@ My focus is on combining **strong software engineering foundations** with Genera
 
 <div align="center">
 
-### Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=py,cpp,fastapi,postgres&theme=dark" alt="Languages and backend" />
-
-<br/><br/>
-
-### Generative AI & Machine Learning
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-<br/><br/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=py,cpp,fastapi,postgres,pytorch,tensorflow,opencv,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 <br/><br/>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_%26_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
-| Category | Skills |
+| Area | Tools & Concepts |
 | :-- | :-- |
-| **Programming** | Python, SQL, C++ |
-| **Generative AI** | LLMs, Prompt Engineering, LangChain, LLM APIs |
-| **Exploring** | RAG, LangGraph, Agentic AI |
-| **Backend Engineering** | FastAPI, REST APIs, CRUD, PostgreSQL, SQLAlchemy |
-| **Authentication** | JWT, OAuth2, Authentication, Authorization |
-| **Machine Learning** | Machine Learning, Deep Learning, PyTorch, TensorFlow |
-| **AI Domains** | Generative AI, NLP, Computer Vision |
-| **Tools** | Git, GitHub, VS Code, Streamlit, Ollama |
+| 🐍 **Languages** | Python, SQL, C++ |
+| 🤖 **AI / ML** | Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, LLM workflows |
+| ⚙️ **Backend** | FastAPI, REST APIs, CRUD, Authentication, Authorization, OAuth2, JWT |
+| 🧰 **Tools** | Git, GitHub, Streamlit, OpenCV, Dlib, PyTorch, TensorFlow, Keras, MediaPipe, NLTK |
+| 📐 **Foundations** | OOP, Linear Algebra, Calculus, Prompt Engineering, Debugging |
 
 ---
 
@@ -87,60 +62,34 @@ My focus is on combining **strong software engineering foundations** with Genera
   <tr>
     <td width="50%" valign="top">
 
-### 🐍 [PyLumo — AI-Powered Python Tutor](https://github.com/Amanathussain205/PyLumo)
+### 🐍 PyLumo: AI-Powered Python Tutor
+An interactive chatbot that helps users learn and practice Python through a conversational experience, with prompts designed for structured tutoring.
 
-An interactive AI-powered Python tutor that helps beginners understand programming concepts, practice coding, and improve their problem-solving skills through conversational AI.
-
-**Key Features:**
-- Interactive AI tutoring
-- Configurable LLM integration
-- Conversational learning experience
-
-`Python` `Streamlit` `Groq API` `Prompt Engineering`
+`Python` `Streamlit` `LLM API` `Prompt Engineering`
 
     </td>
     <td width="50%" valign="top">
 
-### ✅ [FastAPI ToDo REST API](https://github.com/Amanathussain205/fast-api-todo-app)
+### ✅ ToDo REST API
+A FastAPI backend with CRUD endpoints, database persistence, user registration/login, password hashing, JWT/refresh tokens and role-based access.
 
-A backend application providing task management through RESTful APIs, with persistent storage and secure user access.
-
-**Key Features:**
-- CRUD operations
-- PostgreSQL integration
-- User registration and login
-- JWT authentication and role-based access
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+`FastAPI` `PostgreSQL` `OAuth2` `JWT`
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 👁️ Driver Safety Monitoring System
+### 👁️ Driver Safety Monitor
+A real-time computer vision pipeline that detects driver fatigue using facial landmarks and Eye Aspect Ratio (EAR), with an audio alert for prolonged eye closure and yawning.
 
-A computer vision-based system designed to monitor driver alertness and detect signs of fatigue in real time.
-
-**Key Features:**
-- Eye Aspect Ratio (EAR) monitoring
-- Facial landmark detection
-- Audio alerts for fatigue indicators
-
-`Python` `OpenCV` `Dlib` `Computer Vision`
+`OpenCV` `Dlib` `Computer Vision`
 
     </td>
     <td width="50%" valign="top">
 
-### 🎙️ ZAVI — Voice Assistant
-
-A Python-based voice assistant that uses speech technologies and intent recognition to interact with users and perform tasks.
-
-**Key Features:**
-- Speech-to-text
-- Text-to-speech
-- Intent recognition
-- Task and system interaction
+### 🎙️ ZAVI: Voice Assistant
+A Python personal assistant with speech-to-text, text-to-speech and intent recognition for task management, information retrieval and system control.
 
 `Python` `STT` `TTS` `NLU`
 
@@ -148,31 +97,18 @@ A Python-based voice assistant that uses speech technologies and intent recognit
   </tr>
 </table>
 
-> 📂 Explore more of my work on [GitHub Repositories](https://github.com/Amanathussain205?tab=repositories).
+> 📂 More work on my [repositories page](https://github.com/Amanathussain205?tab=repositories).
 
 ---
 
-## 📚 Currently Learning & Exploring
-
-- [x] Python fundamentals and Object-Oriented Programming
-- [x] FastAPI and backend development
-- [x] Prompt Engineering
-- [x] LangChain fundamentals
-- [ ] Retrieval-Augmented Generation (RAG)
-- [ ] LangGraph and Agentic AI workflows
-- [ ] Building production-oriented LLM applications
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amanathussain205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1D3A&title_color=60A5FA&icon_color=3B82F6" alt="GitHub stats" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanathussain205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1D3A&title_color=60A5FA" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Amanathussain205&theme=tokyonight&hide_border=true&background=0B1D3A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
 
@@ -180,25 +116,26 @@ A Python-based voice assistant that uses speech technologies and intent recognit
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Currently Focused On
 
-I'm always interested in connecting with developers, AI enthusiasts, and engineers working on meaningful technology.
+- [x] FastAPI authentication & authorization patterns
+- [x] Prompt engineering and structured LLM interaction
+- [ ] Retrieval-Augmented Generation (RAG) systems
+- [ ] AI-powered backend systems & applied AI research
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amanat-hussain-9726923b8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:amanathussain463@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Amanathussain205">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<a href="https://www.linkedin.com/in/amanat-hussain-9726923b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amanathussain463@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Amanathussain205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<i>"Building intelligent systems, one practical solution at a time."</i>
+<i>“Reliable AI starts with strong software engineering.”</i>
 
 </div>
 
