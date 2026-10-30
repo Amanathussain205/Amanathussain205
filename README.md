@@ -5,13 +5,13 @@
 <div align="center">
 
 <a href="https://github.com/Amanathussain205">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Sotrix Technologies;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Generative+AI+Intern+%40+Softrix+Technologies;Building+FastAPI+backends+%26+LLM+apps;BS+Artificial+Intelligence+%7C+Superior+University;Reliable+AI+%3D+Strong+Software+Engineering" alt="Typing intro" />
 </a>
 
 <br/>
 
 ![Location](https://img.shields.io/badge/Faisalabad%2C_Pakistan-0B1D3A?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
-![Role](https://img.shields.io/badge/Generative_AI_Intern-Evren_AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white)
+![Role](https://img.shields.io/badge/Generative_AI_Intern-Softrix_Technologies-3B82F6?style=for-the-badge&logo=openai&logoColor=white)
 ![Education](https://img.shields.io/badge/BS_AI-Superior_University-0B1D3A?style=for-the-badge&logo=googlescholar&logoColor=60A5FA)
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm an **Artificial Intelligence undergraduate** and **Generative AI Intern at Evren AI** (Lahore), focused on building reliable AI systems that pair **solid backend engineering** with modern **machine learning and LLM techniques**.
+I'm an **Artificial Intelligence undergraduate** and **Generative AI Intern at Softrix Technologies** (Faisalabad), focused on building reliable AI systems that pair **solid backend engineering** with modern **machine learning and LLM techniques**.
 
 - 🔭 Currently building **FastAPI** services with database persistence, authentication and authorization
 - 🧠 Exploring **prompt engineering, LLM workflows and RAG**
